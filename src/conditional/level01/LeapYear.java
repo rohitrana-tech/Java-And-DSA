@@ -1,8 +1,9 @@
-package conditional;
+package conditional.level01;
+// 5. Check if a given year is a leap year
 
 import java.util.Scanner;
 
-// 5. Check if a given year is a leap year
+
 public class LeapYear {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

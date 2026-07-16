@@ -1,4 +1,4 @@
-package conditional;
+package conditional.level01;
 
 import java.util.Scanner;
 

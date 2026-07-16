@@ -1,4 +1,4 @@
-package conditional;
+package conditional.level01;
 // 1. Take a number and print whether it’s positive, negative, or zero.
 
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package conditional;
+package conditional.level01;
 // 2. Check if a number is even or odd.
 
 import java.util.Scanner;

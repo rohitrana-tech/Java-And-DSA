@@ -1,4 +1,4 @@
-package conditional;
+package conditional.level01;
 // 3. Check if a number is divisible by 5.
 
 import java.util.Scanner;
